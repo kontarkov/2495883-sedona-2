@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Игорь Штенгелов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2495883).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
