@@ -2,6 +2,7 @@
 
 * Студент: [Игорь Штенгелов](https://up.htmlacademy.ru/htmlcss-individual/2/user/2495883).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena).
+* Сайт: [Мой проект Седона](https://kontarkov.github.io/2495883-sedona-2/).
 
 ---
 
